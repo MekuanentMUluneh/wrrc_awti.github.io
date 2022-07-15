@@ -1,2 +1,3 @@
-# wrrc_awti.github.io
-My personal website
+# Mekuanent Muluneh
+
+I am a hydrologist with background in hydrologic modeling, extreme event and uncertainty analysis and climate impact investigation. I earned my M.Sc. in Water Resources Engineering from University of Leuven and Free University of Brussels, Belgium (July/2015) and B.Sc. in Water Resource and Environmental Engineering from Haramaya University, Ethiopia (July/2011). I have strong background in catchment processes modeling, assessment of different sources of uncertainty in hydrologic modeling and groundwater-surface water interaction. My areas of research and experience include conceptual and spatially distributed hydrologic modeling, hydrodynamic modeling , extreme value analysis and climate impact investigation. I have 8 years of teaching, supervising and research work experience both in Ethiopia and Europe. I am currently working at Arba Minch University as Associate Researcher.
